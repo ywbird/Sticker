@@ -31,3 +31,10 @@ Sticker with movements:
 ```batch
 sticker gif/gura.gif 0.2 1 200,200 -100,100, 100,0 120
 ```
+
+Image types:
+- `.png` 
+- `.gif`
+- `.jpg`
+- `.ico`
+and more...
