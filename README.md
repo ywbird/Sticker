@@ -15,7 +15,7 @@ origin repo : [link](https://github.com/kairess/animated-wallpaper-sticker)
 
 ```batch
         ┌─img path─┐     ┌Always on top(1 for true 0 for false)
-sticker gif/gura.gif 0.2 1 200,200 -100,100 100,0 120
+sticker images/gura.gif 0.2 1 200,200 -100,100 100,0 120
                      └┬┘   └──┬──┘ ├──────┘ ├───┘ └─┤
                   Size┘   [Position└from pos└to pos └speed]←optional
 ```
@@ -23,13 +23,13 @@ sticker gif/gura.gif 0.2 1 200,200 -100,100 100,0 120
 Just sticker:
 
 ```batch
-sticker gif/gura.gif 0.2 1 200,200
+sticker images/gura.gif 0.2 1 200,200
 ```
 
 Sticker with movements:
 
 ```batch
-sticker gif/gura.gif 0.2 1 200,200 -100,100, 100,0 120
+sticker images/gura.gif 0.2 1 200,200 -100,100, 100,0 120
 ```
 
 Image types:
